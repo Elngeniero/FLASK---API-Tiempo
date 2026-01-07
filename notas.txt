@@ -1,0 +1,13 @@
+Para crear proyecto con Django o Flask:
+Crear entorno virtual:
+    python -m virtual venv
+Trabajar dentro del entorno:
+    .\venv\Scripts\activate
+Instalar el framework:
+    pip install Django/flask
+Correr la app:
+    flask run en el directorio raíz
+
+Runear el docker compose; crea la imagen y ejecuta el contenedor
+al agregar el build recontruye 
+    docker compose up -d --build

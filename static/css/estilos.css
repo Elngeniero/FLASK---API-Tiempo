@@ -1,0 +1,28 @@
+body {
+	background-color: #1a1a1a;
+	color: #ffffff;
+}
+
+.weather-container {
+	background-color: #2d2d2d; 
+	padding: 2rem; 
+	border-radius: 10px; 
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);	width: 100%; 
+	width: 100%;
+	max-width: 500px;
+}
+.icono {
+	width: 35px;
+	font-size: 20px;
+	color: #7eb6ff;
+}
+
+.clima-title{
+	color: #7eb6ff;
+	text-align: center;
+}
+.form-control {
+	background-color: #3a3a3a;
+	border: 1px solid #555555;
+	color: #ffffff;
+}

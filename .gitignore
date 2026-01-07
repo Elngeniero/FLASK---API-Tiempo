@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Docker
+*.tar
+
+# Sistema
+.DS_Store
+Thumbs.db
