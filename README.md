@@ -8,5 +8,5 @@ Crear un archivo `.env` en la raíz del proyecto con el siguiente contenido:
 
 ```env
 API_KEY="apikeycorrespondiente"
-
+```
 En Openweathermap
